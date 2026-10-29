@@ -2,13 +2,10 @@
   "schemaVersion": 1,
   "id": "charredplanks",
   "version": "1.0.0",
-  "name": "Charred Planks",
-  "description": "Декоративный блок обугленных досок",
-  "authors": [
-    "Фишман Д.Р.",
-    "Бурханов А.А.",
-    "Торохов М.А."
-  ],
+  "name": "Charred Planks (Обугленные доски)",
+  "description": "Добавляет декоративный блок обугленных досок для строительства",
+  "authors": ["Фишман Д.Р.", "Бурханов А.А.", "Торохов М.А."],
+  "icon": "assets/charredplanks/icon.png",
   "license": "CC0-1.0",
   "environment": "*",
   "entrypoints": {
