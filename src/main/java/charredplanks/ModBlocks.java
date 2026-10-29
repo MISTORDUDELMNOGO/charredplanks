@@ -14,7 +14,8 @@ public class ModBlocks {
     public static final Block CHARRED_PLANKS = Registry.register(
             Registries.BLOCK,
             Identifier.of(CharredPlanksMod.MOD_ID, "charred_planks"),
-            new Block(AbstractBlock.Settings.create().strength(2.0f, 3.0f)));
+            new Block(AbstractBlock.Settings.create()
+                    .strength(2.0f, 3.0f)));
 
     public static final Item CHARRED_PLANKS_ITEM = Registry.register(
             Registries.ITEM,

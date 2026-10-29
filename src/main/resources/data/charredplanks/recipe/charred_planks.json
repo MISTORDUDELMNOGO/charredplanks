@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    { "item": "minecraft:oak_planks" },
+    { "item": "minecraft:coal" }
+  ],
+  "result": {
+    "id": "charredplanks:charred_planks",
+    "count": 1
+  }
+}
