@@ -1,4 +1,4 @@
-package charredplanks.client; // У вас пакет называется client, обычно это com.вашник.charredplanks.client
+package charredplanks.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
